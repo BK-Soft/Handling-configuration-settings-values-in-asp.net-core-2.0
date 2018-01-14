@@ -1,0 +1,11 @@
+c:\users\falco\documents\visual studio 2017\Projects\configurationoptions\configurationoptions\bin\Debug\netcoreapp2.0\configurationoptions.deps.json
+c:\users\falco\documents\visual studio 2017\Projects\configurationoptions\configurationoptions\bin\Debug\netcoreapp2.0\configurationoptions.runtimeconfig.json
+c:\users\falco\documents\visual studio 2017\Projects\configurationoptions\configurationoptions\bin\Debug\netcoreapp2.0\configurationoptions.runtimeconfig.dev.json
+c:\users\falco\documents\visual studio 2017\Projects\configurationoptions\configurationoptions\bin\Debug\netcoreapp2.0\configurationoptions.dll
+c:\users\falco\documents\visual studio 2017\Projects\configurationoptions\configurationoptions\bin\Debug\netcoreapp2.0\configurationoptions.pdb
+c:\users\falco\documents\visual studio 2017\Projects\configurationoptions\configurationoptions\obj\Debug\netcoreapp2.0\configurationoptions.csprojResolveAssemblyReference.cache
+c:\users\falco\documents\visual studio 2017\Projects\configurationoptions\configurationoptions\obj\Debug\netcoreapp2.0\configurationoptions.csproj.CoreCompileInputs.cache
+c:\users\falco\documents\visual studio 2017\Projects\configurationoptions\configurationoptions\obj\Debug\netcoreapp2.0\configurationoptions.AssemblyInfoInputs.cache
+c:\users\falco\documents\visual studio 2017\Projects\configurationoptions\configurationoptions\obj\Debug\netcoreapp2.0\configurationoptions.AssemblyInfo.cs
+c:\users\falco\documents\visual studio 2017\Projects\configurationoptions\configurationoptions\obj\Debug\netcoreapp2.0\configurationoptions.dll
+c:\users\falco\documents\visual studio 2017\Projects\configurationoptions\configurationoptions\obj\Debug\netcoreapp2.0\configurationoptions.pdb
